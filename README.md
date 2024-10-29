@@ -31,7 +31,7 @@ The core pieces that make everything fit together nicely.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
-#### 🔬 Experimental Gear:
+#### Experimental Gear:
 Where I break things to make sure they don’t break later.
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)

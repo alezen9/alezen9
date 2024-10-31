@@ -12,8 +12,8 @@ A mix of languages, frameworks, and tools I’ve worked with, grouped by profici
 ### Daily Drivers (Core Proficiencies)
 The tools that see the most action and keep everything running smoothly.
 
-#### Lingua Franca:
-The languages I use to speak code fluently.
+#### The Native Tongues of the Web
+The essentials I rely on to bring the web to life: making it speak, look, and work seamlessly.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -60,6 +60,7 @@ The unsung heroes working behind the scenes to make it all possible.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 
 #### Cloudy with a Chance of Code:
@@ -71,10 +72,12 @@ For all things remote, scalable, and shared.
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=Miro&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 
 
 #### Learning Grounds:
 The new frontiers I’m exploring one step at a time.
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
